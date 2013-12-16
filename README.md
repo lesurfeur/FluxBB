@@ -32,6 +32,7 @@ ___
  - Homepage: http://fluxbb.org
  - Documentation: http://fluxbb.org/docs/
  - Community: http://fluxbb.org/forums/
+ - Community French :http://fluxbb.fr/forums/index.php
  - Resources: http://fluxbb.org/resources/
  - IRC: irc://irc.freenode.net/fluxbb
  - Development: http://github.com/fluxbb/fluxbb
